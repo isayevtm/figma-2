@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;600;700&display=swap');
+
+
+:root {
+    --maincolor:#458FF6;
+    --mainfont:'Mulish', sans-serif;
+    --logotextcolor: #233348;
+    --menutextcolor: #1F1534;
+    --opatextcolor: #7D7987;
+    --textwhite: #FFFFFF;
+    --textblack: #000000;
+    --readmoretext: #4089ED;
+    --footertext: #5B9BF3;
+
+}
